@@ -13,7 +13,3 @@ export default class ProductList {
 }
 
 
-
-// var sumOfGoodsPrice = goods.reduce( (sum, good ) => 
-// {return (sum + good.price)},0);
-
